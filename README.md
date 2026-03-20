@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Management System
+oo# 🍽️ Restaurant Management System
 
 A full-stack Restaurant Management System built with **Node.js**, **Express**, **MySQL**, and **React**. This system allows restaurant staff and admins to manage tables, menus, orders, and view reports in real time.
 
@@ -339,9 +339,3 @@ Authorization: Bearer <your_token>
 3. Token expires in **7 days**
 
 ---
-
-## 👩‍💻 Built By
-
-**Thivya Venkatachalam**
-
-- GitHub: [@ThivyaVenkatachalam](https://github.com/ThivyaVenkatachalam)
