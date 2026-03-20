@@ -1,4 +1,4 @@
-oo# 🍽️ Restaurant Management System
+## 🍽️ Restaurant Management System
 
 A full-stack Restaurant Management System built with **Node.js**, **Express**, **MySQL**, and **React**. This system allows restaurant staff and admins to manage tables, menus, orders, and view reports in real time.
 
